@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/InternetShop/static/css/main.e4859cb5.css",
+    "main.js": "/InternetShop/static/js/main.5433e2c5.js",
+    "static/media/bg.jpg": "/InternetShop/static/media/bg.f973110f0c0feb024b8f.jpg",
+    "index.html": "/InternetShop/index.html",
+    "main.e4859cb5.css.map": "/InternetShop/static/css/main.e4859cb5.css.map",
+    "main.5433e2c5.js.map": "/InternetShop/static/js/main.5433e2c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4859cb5.css",
+    "static/js/main.5433e2c5.js"
+  ]
+}
